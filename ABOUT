@@ -1,0 +1,10 @@
+**In this file distribution, you will find scripts and data files used in "The role of conformational entropy in the determination of structural-kinetic relationships for helix-coil transitions" by Joseph F. Rudzinski and Tristan Bereau. 
+
+
+gen_analysis - skeleton files for the analysis of each simulation trajectory
+ 
+gen_CG_sim - skeleton files for running simulations of the HyGo models
+
+HyGo_tables - various Gromacs table files for the Go-type interactions of the HyGo model.
+
+Analysis - various analysis scripts in the form of ipython notebooks and also the resulting figures. Here you can find the parameters of the models presented in the main text. The folder Redo_sort_wPLUMS_new_t0 has the final plots found in the manuscript.
